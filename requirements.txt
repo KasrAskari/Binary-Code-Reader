@@ -1,0 +1,4 @@
+# Runtime dependencies for Binary Code Reader.
+# Requires Python 3.10 or newer (pip does not enforce this).
+# Tkinter ships with Python and is not listed here.
+tkinterdnd2==0.6.4
