@@ -2,8 +2,12 @@
 
 A small desktop tool that converts **text to binary** and **binary back to text**, with full UTF-8 support (Persian, emoji and more), selectable encodings, drag & drop, history and a dark mode.
 
-![Dark mode](docs/screenshot-dark.png)
-![Light mode](docs/screenshot-light.png)
+<table align="center">
+  <tr>
+    <td align="center"><img src="docs/screenshot-light.png" alt="Light mode" width="400"><br>Light</td>
+    <td align="center"><img src="docs/screenshot-dark.png" alt="Dark mode" width="400"><br>Dark</td>
+  </tr>
+</table>
 
 ## Features
 
