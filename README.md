@@ -35,8 +35,8 @@ A small desktop tool that converts **text to binary** and **binary back to text*
 Requires **Python 3.10 or newer**.
 
 ```powershell
-git clone https://github.com/<your-username>/BinaryCodeReader.git
-cd BinaryCodeReader
+git clone https://github.com/<your-username>/Binary-Code-Reader.git
+cd Binary-Code-Reader
 
 python -m venv .venv
 .venv\Scripts\Activate.ps1
